@@ -1,10 +1,9 @@
-##Hi there 👋
+<h2>Hi there 👋</h2>
 
-I'm Manuel 🧙‍♂️
-Tech passionate and Nature lover 🌲
+<p>I'm Manuel 🧙‍♂️<br>Tech passionate and Nature lover 🌲 </p>
 
 
-#####This is literally how I'd define myself 💻
+<h5>How I'd literally define myself 💻 </h4>
 ```python
 class Manuel:
     def __init__(self):
@@ -13,7 +12,7 @@ class Manuel:
        self.country_origin = 'Italy'
    
     def working_experince(self):
-       self.work = [ 'EY', 'TR, Refinitiv', 'Accenture', 'Citibank', 'LSEG' ]
+       self.work = [ 'EY', 'TR', 'Refinitiv', 'Accenture', 'Citibank', 'LSEG' ]
        return self.work
        
     def education(self):
