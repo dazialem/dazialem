@@ -1,16 +1,26 @@
-### Hi there 👋
+##Hi there 👋
 
-<!--
-**dazialem/dazialem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Manuel 🧙‍♂️
+Tech passionate and Nature lover 🌲
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#####This is literally how I'd define myself 💻
+```python
+class Manuel:
+    def __init__(self):
+       self.full_name = 'Manuel Daziale'
+       self.year_born = 1991
+       self.country_origin = 'Italy'
+   
+    def working_experince(self):
+       self.work = [ 'EY', 'TR, Refinitiv', 'Accenture', 'Citibank', 'LSEG' ]
+       return self.work
+       
+    def education(self):
+        self.education = [ 'Unimib', 'UCSC' 'UCLA' ]
+        return self.education
+        
+    def hobbies(self):
+        self.hobbies = [ 'Travelling', 'Trekking', 'Tennis', 'Badminton...' ]
+        return self.hobbies
+ ```
