@@ -4,7 +4,7 @@
 
 
 <h5>How I'd literally define myself 💻 </h4>
-```python
+```ruby
 class Manuel:
     def __init__(self):
        self.full_name = 'Manuel Daziale'
