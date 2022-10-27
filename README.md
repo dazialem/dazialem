@@ -3,7 +3,7 @@
 <p>I'm Manuel 🧙‍♂️<br>Tech passionate and Nature lover 🌲 </p>
 
 
-<h5>How I'd literally define myself 💻 </h4>
+<p>This is how I'd literally define myself 💻 </p>
 
 ```ruby
 class Manuel:
