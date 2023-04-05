@@ -13,7 +13,7 @@ class Manuel:
        self.country_origin = 'Italy'
    
     def working_experince(self):
-       self.work = [ 'EY', 'TR', 'Refinitiv', 'Accenture', 'Citibank', 'LSEG' ]
+       self.work = [ 'EY', 'TR', 'Refinitiv', 'Accenture', 'Citibank', 'LSEG', 'UBS' ]
        return self.work
        
     def education(self):
